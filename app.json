@@ -5,11 +5,11 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "0-0-0-0-0"
+            "value": "4074e410-efc8-44cb-bd6b-e14db3397973"
         },
         "AID": {
             "description": "AlterID",
-            "value": "64"
+            "value": "56789"
         },
         "WSPATH": {
             "description": "WebSocket Path",
