@@ -10,12 +10,12 @@ cat << EOF > ${DIR_TMP}/heroku.json
 {
     "inbounds": [{
         "port": ${PORT},
-        "protocol": "vless",
+        "protocol": "vmess",
         "settings": {
             "clients": [{
-                "id": "${ID}"
-            }],
-            "decryption": "none"
+                "id": "${ID}",
+                "alterId": ${AID}
+            }]
         },
         "streamSettings": {
             "network": "ws",
