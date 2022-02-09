@@ -14,6 +14,10 @@
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
+        },
+        "WSHOST": {
+            "description": "WebSocket Host",
+            "value": "a.189.com"
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
