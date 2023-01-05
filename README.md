@@ -1,7 +1,6 @@
 # V2Ray Heroku
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/xzh767/heroku-vmess)](https://github.com/xzh767/heroku-vmess/commits/master)
-[![CodeFactor](https://www.codefactor.io/repository/github/xzh767/heroku-vmess)](https://www.codefactor.io/repository/github/xzh767/heroku-vmess)
 [![GitHub Releases](https://img.shields.io/github/downloads/xzh767/heroku-vmess/total?logo=github)](https://github.com/xzh767/heroku-vmess/releases)
 
 
