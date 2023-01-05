@@ -1,5 +1,10 @@
 # V2Ray Heroku
 
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/xzh767/heroku-vmess)](https://github.com/xzh767/heroku-vmess/commits/master)
+[![CodeFactor](https://www.codefactor.io/repository/github/2dust/v2rayn/badge)](https://www.codefactor.io/repository/github/xzh767/heroku-vmess)
+[![GitHub Releases](https://img.shields.io/github/downloads/2dust/v2rayN/latest/total?logo=github)](https://github.com/xzh767/heroku-vmess/releases)
+
+
 ## 概述
 
 本专案用于在 Heroku 上部署 V2Ray WebSocket，在合理使用的程度下，本镜像不会因为大量占用资源而导致封号。
